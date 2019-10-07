@@ -1,0 +1,11 @@
+C:\Users\allis\workspace\CSharp\book1\exercises\english-idioms\bin\Debug\netcoreapp3.0\english-idioms.exe
+C:\Users\allis\workspace\CSharp\book1\exercises\english-idioms\bin\Debug\netcoreapp3.0\english-idioms.deps.json
+C:\Users\allis\workspace\CSharp\book1\exercises\english-idioms\bin\Debug\netcoreapp3.0\english-idioms.runtimeconfig.json
+C:\Users\allis\workspace\CSharp\book1\exercises\english-idioms\bin\Debug\netcoreapp3.0\english-idioms.runtimeconfig.dev.json
+C:\Users\allis\workspace\CSharp\book1\exercises\english-idioms\bin\Debug\netcoreapp3.0\english-idioms.dll
+C:\Users\allis\workspace\CSharp\book1\exercises\english-idioms\bin\Debug\netcoreapp3.0\english-idioms.pdb
+C:\Users\allis\workspace\CSharp\book1\exercises\english-idioms\obj\Debug\netcoreapp3.0\english-idioms.csprojAssemblyReference.cache
+C:\Users\allis\workspace\CSharp\book1\exercises\english-idioms\obj\Debug\netcoreapp3.0\english-idioms.AssemblyInfoInputs.cache
+C:\Users\allis\workspace\CSharp\book1\exercises\english-idioms\obj\Debug\netcoreapp3.0\english-idioms.AssemblyInfo.cs
+C:\Users\allis\workspace\CSharp\book1\exercises\english-idioms\obj\Debug\netcoreapp3.0\english-idioms.dll
+C:\Users\allis\workspace\CSharp\book1\exercises\english-idioms\obj\Debug\netcoreapp3.0\english-idioms.pdb
